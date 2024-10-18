@@ -1,0 +1,26 @@
+Hours Studied,Exam Score,Gender
+2,75,Male
+3,82,Female
+4,88,Female
+1,60,Male
+5,90,Female
+2,70,Male
+3,85,Female
+1.5,65,Female
+4.5,95,Male
+3.5,80,Male
+2.5,78,Female
+1,55,Male
+3,88,Male
+4,92,Female
+5,97,Female
+2.8,72,Female
+1.2,50,Male
+3.7,84,Female
+4.2,91,Male
+5.5,99,Female
+1.8,68,Female
+2.2,77,Male
+3.9,89,Male
+2.9,74,Female
+4.1,93,Male
