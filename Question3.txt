@@ -1,4 +1,4 @@
-Hours Studied,Exam Score,Gender
+HoursStudied,ExamScore,Gender
 2,75,Male
 3,82,Female
 4,88,Female
